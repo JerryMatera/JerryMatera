@@ -6,8 +6,6 @@ I'm a tech Enthusiast pursuing mastery in Software Development.I'm passionate an
 - Mobile:
   - Android, Kotlin and Java
   - Flutter, Dart
-- Web:
-  - HTML, CSS and JavaScript
  
 ## Connect with me:
 - [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />](https://linkedin.com/in/jerryonyango)
